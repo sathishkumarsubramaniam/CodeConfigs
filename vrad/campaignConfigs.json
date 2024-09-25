@@ -1,0 +1,172 @@
+[
+  {
+    "name": "LinkedIn Talent Solution",
+    "shortName": "LTS",
+    "regions": {
+      "NAMER": {
+        "ACQ": {
+          "folderName": "LTS ACQ 2024 LIT",
+          "marketingProgram": "LTS Field",
+          "marketingStrategy": "Acquisition",
+          "htmlMessagePath": "/contentlibrary/LTS/LTS ACQ 2024 LIT/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp",
+          "purpose": "PROMOTIONAL"
+        },
+        "CUST": {
+          "folderName": "LTS CUST 2024 LIT",
+          "marketingProgram": "LTS Field",
+          "marketingStrategy": "Customer",
+          "htmlMessagePath": "/contentlibrary/LTS/LTS CUST 2024 LIT/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp",
+          "purpose": "PROMOTIONAL"
+        }
+      },
+      "APAC": {},
+      "EMEA": {
+        "ACQ": {
+          "folderName": "EMEA_New",
+          "marketingProgram": "LTS Field",
+          "marketingStrategy": "",
+          "htmlMessagePath": "/contentlibrary/old content/emea_new/lhs_acq_2024/",
+          "refiningDataSourcePath": "ZZ_Ganesh_Aravind/June-2021-testdata"
+        },
+        "CUST": {
+          "folderName": "EMEA_New",
+          "marketingProgram": "LTS Field",
+          "marketingStrategy": "",
+          "htmlMessagePath": "/contentlibrary/old content/emea_new/lhs_cust_2024/",
+          "refiningDataSourcePath": "ZZ_Ganesh_Aravind/June-2021-testdata"
+        }
+      }
+    }
+  },
+  {
+    "name": "LinkedIn Marketing Solutions",
+    "shortName": "LMS",
+    "regions": {
+      "NAMER": {
+        "ACQ": {
+          "folderName": "LMS ACQ 2024 LIT",
+          "marketingProgram": "LMS Field",
+          "marketingStrategy": "Acquisition",
+          "htmlMessagePath": "/contentlibrary/LMS/LMS ACQ 2024 LIT/",
+          "refiningDataSourcePath": ""
+        },
+        "CUST": {
+          "folderName": "LMS CUST 2024 LIT",
+          "marketingProgram": "Other",
+          "marketingStrategy": "Customer",
+          "htmlMessagePath": "/contentlibrary/LMS/LMS CUST 2024 LIT/",
+          "refiningDataSourcePath": ""
+        },
+        "ENT": {
+          "folderName": "LMS ENT",
+          "marketingProgram": "Other",
+          "marketingStrategy": "Webinar",
+          "htmlMessagePath": "/contentlibrary/LMS/LMS ENT",
+          "refiningDataSourcePath": ""
+        }
+      },
+      "EMEA": {
+        "ACQ": {
+          "folderName": "EMEA_New",
+          "marketingProgram": "LMS Field",
+          "marketingStrategy": "Acquisition",
+          "htmlMessagePath": "/contentlibrary/old content/emea_new/lms_acq_2024/",
+          "refiningDataSourcePath": ""
+        },
+        "CUST": {
+          "folderName": "EMEA_New",
+          "marketingProgram": "Other",
+          "marketingStrategy": "Customer",
+          "htmlMessagePath": "/contentlibrary/old content/emea_new/lhs_cust_2024/",
+          "refiningDataSourcePath": ""
+        }
+      },
+      "APAC": {
+        "CUST": {
+          "folderName": "LMS CUST 2024 LIT",
+          "marketingProgram": "LMS Field",
+          "marketingStrategy": "Literature",
+          "htmlMessagePath": "/contentlibrary/LMS/lms cust 2024 lit/apac/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp"
+        }
+      }
+    }
+  },
+  {
+    "name": "LinkedIn Sales Solutions",
+    "shortName": "LSS",
+    "regions": {
+      "NAMER": {},
+      "EMEA": {
+        "ACQ": {
+          "folderName": "EMEA_New",
+          "marketingProgram": "LSS Field",
+          "marketingStrategy": "",
+          "htmlMessagePath": "/contentlibrary/old content/emea_new/lss_acq_2024/",
+          "refiningDataSourcePath": ""
+        },
+        "CUST": {
+          "folderName": "EMEA_New",
+          "marketingProgram": "LSS Field",
+          "marketingStrategy": "",
+          "htmlMessagePath": "/contentlibrary/old content/emea_new/lss_cust_2024/",
+          "refiningDataSourcePath": ""
+        }
+      },
+      "APAC": {
+        "AWR": {
+          "folderName": "LSS ACQ 2024 LIT",
+          "marketingProgram": "LSS Field",
+          "marketingStrategy": "",
+          "htmlMessagePath": "/contentlibrary/linkedin_sales_solutions/lss acq 2024 lit/apac/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp"
+        },
+        "ACQ": {
+          "folderName": "LSS ACQ 2024 LIT",
+          "marketingProgram": "LSS Field",
+          "marketingStrategy": "",
+          "htmlMessagePath": "/contentlibrary/linkedin_sales_solutions/lss acq 2024 lit/apac/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp"
+        },
+        "CUST": {
+          "folderName": "LSS CUST 2024 LIT",
+          "marketingProgram": "LSS Field",
+          "marketingStrategy": "Web",
+          "htmlMessagePath": "/contentlibrary/linkedin_sales_solutions/lss cust 2024 lit/apac/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp"
+        }
+      }
+    }
+  },
+  {
+    "name": "LinkedIn Learning Solution",
+    "shortName": "LLS",
+    "regions": {
+      "NAMER": {
+        "ACQ": {
+          "folderName": "LTS ACQ 2024 LIT",
+          "marketingProgram": "LTS Field",
+          "marketingStrategy": "Acquisition",
+          "htmlMessagePath": "/contentlibrary/LTS/LTS ACQ 2024 LIT/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp",
+          "purpose": "PROMOTIONAL"
+        },
+        "CUST": {
+          "folderName": "LTS CUST 2024 LIT",
+          "marketingProgram": "LTS Field",
+          "marketingStrategy": "Customer",
+          "htmlMessagePath": "/contentlibrary/LTS/LTS CUST 2024 LIT/",
+          "refiningDataSourcePath": "VC Office Hours HW/TSOPS_proofing_list_acq_fy23_q4_EN_LOC_Supp",
+          "purpose": "PROMOTIONAL"
+        }
+      },
+      "APAC": {},
+      "EMEA": {
+        "ACQ": {},
+        "CUST": {}
+      }
+    }
+  }
+]
